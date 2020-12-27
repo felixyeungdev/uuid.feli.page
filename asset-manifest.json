@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/uuid.feli.page/static/css/main.5dbb8a50.chunk.css",
-    "main.js": "/uuid.feli.page/static/js/main.687facc4.chunk.js",
-    "main.js.map": "/uuid.feli.page/static/js/main.687facc4.chunk.js.map",
-    "runtime-main.js": "/uuid.feli.page/static/js/runtime-main.450f602a.js",
-    "runtime-main.js.map": "/uuid.feli.page/static/js/runtime-main.450f602a.js.map",
-    "static/css/2.accbc1b5.chunk.css": "/uuid.feli.page/static/css/2.accbc1b5.chunk.css",
-    "static/js/2.f4bf15b5.chunk.js": "/uuid.feli.page/static/js/2.f4bf15b5.chunk.js",
-    "static/js/2.f4bf15b5.chunk.js.map": "/uuid.feli.page/static/js/2.f4bf15b5.chunk.js.map",
-    "index.html": "/uuid.feli.page/index.html",
-    "static/css/2.accbc1b5.chunk.css.map": "/uuid.feli.page/static/css/2.accbc1b5.chunk.css.map",
-    "static/css/main.5dbb8a50.chunk.css.map": "/uuid.feli.page/static/css/main.5dbb8a50.chunk.css.map",
-    "static/js/2.f4bf15b5.chunk.js.LICENSE.txt": "/uuid.feli.page/static/js/2.f4bf15b5.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/uuid.feli.page/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+    "main.css": "/static/css/main.5dbb8a50.chunk.css",
+    "main.js": "/static/js/main.687facc4.chunk.js",
+    "main.js.map": "/static/js/main.687facc4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cf2c1ad7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cf2c1ad7.js.map",
+    "static/css/2.86a5f087.chunk.css": "/static/css/2.86a5f087.chunk.css",
+    "static/js/2.f4bf15b5.chunk.js": "/static/js/2.f4bf15b5.chunk.js",
+    "static/js/2.f4bf15b5.chunk.js.map": "/static/js/2.f4bf15b5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.86a5f087.chunk.css.map": "/static/css/2.86a5f087.chunk.css.map",
+    "static/css/main.5dbb8a50.chunk.css.map": "/static/css/main.5dbb8a50.chunk.css.map",
+    "static/js/2.f4bf15b5.chunk.js.LICENSE.txt": "/static/js/2.f4bf15b5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.450f602a.js",
-    "static/css/2.accbc1b5.chunk.css",
+    "static/js/runtime-main.cf2c1ad7.js",
+    "static/css/2.86a5f087.chunk.css",
     "static/js/2.f4bf15b5.chunk.js",
     "static/css/main.5dbb8a50.chunk.css",
     "static/js/main.687facc4.chunk.js"
